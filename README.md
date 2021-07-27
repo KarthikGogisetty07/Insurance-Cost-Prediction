@@ -14,7 +14,7 @@ up about 80 percent of the total data used, and the rest for test data. The trai
 data set is applied to build a model as a predictor of medical insurance cost year
 and the test set will use to evaluate the regression model. 
 
-#### SOFTWARES USED
+#### LIBRARIES USED
   ###### Sklearn
   ###### Matplotlib
   ###### Pandas
